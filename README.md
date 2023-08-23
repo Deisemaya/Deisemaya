@@ -1,5 +1,5 @@
 ### Olá Pessoal  👋
-Sou a Deise, química mergulhando de cabeça na tecnologia. tenho conhecimentos em  JavaScript e Node.js para criar soluções web, e uso Python e Pandas para desvendar insights a partir de dados complexos. Atualmente estou aumentando meus conhecimentos nestas duas áreas  e  irei compartilhas tudo por aqui.Vamos juntos explorar essa intersecção entre ciência e tecnologia e criar coisas incríveis!
+Sou a Deise, química mergulhando de cabeça na tecnologia. tenho conhecimentos em  JavaScript e Node.js para criar soluções web, e uso Python e Pandas para desvendar insights a partir de dados complexos. Atualmente estou aumentando meus conhecimentos nestas duas áreas  e  irei compartilhar tudo por aqui. Vamos juntos explorar essa intersecção entre ciência e tecnologia e criar coisas incríveis!
 
 <!--
 **Deisemaya/Deisemaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
